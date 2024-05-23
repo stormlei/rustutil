@@ -2,7 +2,8 @@
 name = "rustutil"
 description = "A collection of utility functions for Rust"
 license = "MIT"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
+repository = "https://github.com/stormlei/rustutil"
 
 [dependencies]
